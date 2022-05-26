@@ -1,0 +1,87 @@
+body {
+    font-family: 'Crimson Text', serif;
+    background-color: rgb(253, 253, 243);
+    font-size: 16pt;
+    margin: 5% 30% 10% 10%;
+}
+
+h1 {
+    font-weight: normal;
+}
+
+h2 {
+    font-size: 18pt;
+    margin-top: 0em;
+    margin-bottom: 0em;
+}
+
+h3 {
+    font-size: 16pt;
+    font-weight: normal;
+    font-style: italic;
+    margin-top: 0.5em;
+    margin-bottom: 0em;
+}
+
+p {
+    margin-top: 0em;
+}
+
+ul {
+    margin-top: 0em;
+    margin-left: 1%;
+}
+
+li {
+    font-size: 14pt;
+    margin-top: 0.2em;
+    margin-bottom: 0.3em;
+}
+
+A.home {
+    color: black;
+}
+
+A.home:link {
+    color: black;
+    text-decoration: none
+}
+
+A.home:visited {
+    color: black;
+    text-decoration: none
+}
+
+A.home:hover {
+    color: black;
+    text-decoration: underline
+}
+
+A.home:active {
+    color: black;
+    text-decoration: none;
+}
+
+A.plain {
+    color: black;
+}
+
+A.plain:link {
+    color: black;
+    text-decoration: underline
+}
+
+A.plain:visited {
+    color: black;
+    text-decoration: underline
+}
+
+A.plain:hover {
+    color: gray;
+    text-decoration: underline
+}
+
+A.plain:active {
+    color: black;
+    text-decoration: underline;
+}
